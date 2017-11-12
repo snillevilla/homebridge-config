@@ -6,7 +6,7 @@
       "pin": "031-45-154"
    },
     
-  "description": "This is a basic Homebridge config.json file to use with Home Assistant plugin. All devices visible by default."
+  "description": "This is a basic Homebridge config.json file to use with Home Assistant plugin. All devices visible by default.",
     
   "platforms": [{
 	  "platform": "HomeAssistant",
